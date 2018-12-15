@@ -1,0 +1,9 @@
+﻿
+@{
+    ViewBag.Title = "cannotRemove";
+}
+
+<h2>cannotRemove</h2>
+Sorry..But Few Payments are still left.
+<br />
+@Html.ActionLink("Back to List", "Details", "Groups", new { id = (int)Session["id"] }, new { })

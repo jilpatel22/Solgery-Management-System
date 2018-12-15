@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SolgerySystem2.Models.Group >
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Your Groups</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create", new { id = (int)Session["nextInt"] })
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.GrpName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.GId)
+        </th>
+        <th>
+          @*  @Html.DisplayNameFor(model => model.Usr.uname)*@
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.GroupBy(g=>g.GId).Select(g=>g.First() )) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.GrpName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.GId)
+        </td>
+        <td>
+            @*Html.DisplayFor(modelItem => item.Usr.uname)*@
+        </td>
+        <td>
+            @Html.ActionLink("Details", "Details", new { id = item.GId }) |
+            @Html.ActionLink("Edit", "Edit", new { id=item.GId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.GId })
+        </td>
+    </tr>
+}
+
+</table>

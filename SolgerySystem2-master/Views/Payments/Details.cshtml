@@ -1,0 +1,66 @@
+﻿@model SolgerySystem2.Models.Payment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Payment</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FromUsr.uname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FromUsr.uname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Grp.GrpName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Grp.GrpName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ToUsr.uname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToUsr.uname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.narration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.narration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.paid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.paid)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PaymentId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,170 @@
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\csc.exe
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\ApplicationInsights.config
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\vbc.exe
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.dll.config
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.pdb
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Antlr3.Runtime.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\EntityFramework.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\EntityFramework.SqlServer.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Web.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Newtonsoft.Json.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Owin.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Helpers.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Mvc.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Optimization.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Razor.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\WebGrease.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Web.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Helpers.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Mvc.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Optimization.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.Razor.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Antlr3.Runtime.pdb
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Newtonsoft.Json.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\EntityFramework.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\EntityFramework.SqlServer.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.dll
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.pdb
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.csprojResolveAssemblyReference.cache
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.Migrations.init.resources
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.csproj.GenerateResource.Cache
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\ApplicationInsights.config
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\csc.exe
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\vbc.exe
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.dll.config
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\SolgerySystem2.pdb
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Antlr3.Runtime.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\EntityFramework.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\EntityFramework.SqlServer.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Web.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Newtonsoft.Json.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Owin.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Helpers.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Mvc.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Optimization.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Razor.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\WebGrease.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.Web.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Helpers.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Mvc.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Optimization.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.Razor.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Antlr3.Runtime.pdb
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Newtonsoft.Json.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\EntityFramework.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\EntityFramework.SqlServer.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.csprojResolveAssemblyReference.cache
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.dll
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.pdb
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.Migrations.init.resources
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.csproj.GenerateResource.Cache
+C:\Users\Hinka\Documents\MVC_BCKUP\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.Migrations.init1.resources
+C:\Users\Hinka\Documents\Visual Studio 2015\Projects\SolgerySystem2\SolgerySystem2\obj\Debug\SolgerySystem2.Migrations.init1.resources

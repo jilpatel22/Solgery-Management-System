@@ -1,0 +1,48 @@
+﻿@model SolgerySystem2.Models.Group
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete Group @ViewBag.grpnm1 ?</h3>
+<div>
+    <h4>Group @ViewBag.grpnm1</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           @* @Html.DisplayNameFor(model => model.Usr.uname)*@
+        </dt>
+
+        <dd>
+            @* @Html.DisplayFor(model => model.Usr.uname)*@
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.GrpName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.GrpName)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

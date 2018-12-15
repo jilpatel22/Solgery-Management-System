@@ -1,0 +1,74 @@
+﻿@model IEnumerable<SolgerySystem2.Models.Group>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Group Members </h2>
+
+<div>
+    <h4>Group @ViewBag.grpnm</h4>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UsrId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Usr.uname)
+            </th>
+            <th></th>
+
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.UsrId )
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Usr.uname)
+                </td>
+                
+                <td>
+                    @if (item.Usr.uname != User.Identity.Name) {@Html.ActionLink("Details", "FindUser", new { id = item.GroupId }) }
+                 | @Html.ActionLink("Remove", "RemoveUser", new { id = item.GroupId })
+                </td>
+            </tr>
+        }
+
+    </table>
+
+    <!--<dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Usr.uname)
+        </dt>
+
+        <dd>
+           @* @Html.DisplayFor(model => model.Usr.uname) *@
+        </dd>
+
+        <dt>
+           @* @Html.DisplayNameFor(model => model.GId) *@
+        </dt>
+
+        <dd>
+           @* @Html.DisplayFor(model => model.GId) *@
+        </dd>
+
+        <dt>
+           @* @Html.DisplayNameFor(model => model.GrpName) *@
+        </dt>
+
+        <dd>
+        </dd>
+
+    </dl>-->
+</div>
+<p>
+    @Html.ActionLink("Pay", "Index1","Payments") 
+    <br />
+    @Html.ActionLink("Add User", "AddUser", new { id = Model.ElementAt(0).GId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,72 @@
+﻿@model SolgerySystem2.Models.Payment
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Payment</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FromUsr.uname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FromUsr.uname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Grp.GrpName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Grp.GrpName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ToUsr.uname)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ToUsr.uname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.narration)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.narration)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.amount)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.amount)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.paid)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.paid)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Details", "Groups", new { id = (int)Session["id"] }, new { })
+        </div>
+    }
+</div>

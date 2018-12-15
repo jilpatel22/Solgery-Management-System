@@ -1,0 +1,120 @@
+﻿@model IEnumerable<SolgerySystem2.Models.Payment>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@*<p>
+    @Html.ActionLink("Create New", "Create")
+</p>*@
+
+JAY
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FromUsr.uname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Grp.GrpName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ToUsr.uname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.narration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.paid)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Where(g=>g ) ) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.FromUsr.uname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Grp.GrpName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ToUsr.uname)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.narration)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.amount)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.paid)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PaymentId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PaymentId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PaymentId })
+        </td>
+    </tr>
+}
+
+</table>
+
+JIL
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FromUsr.uname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Grp.GrpName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ToUsr.uname)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.narration)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.amount)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.paid)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.FromUsr.uname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Grp.GrpName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ToUsr.uname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.narration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.amount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.paid)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.PaymentId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.PaymentId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.PaymentId })
+            </td>
+        </tr>
+    }
+
+</table>
